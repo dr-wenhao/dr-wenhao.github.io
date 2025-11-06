@@ -87,25 +87,31 @@ Human behavior computing, Video understanding, Action analysis, and other relate
     border-color: transparent;
   }
 </style>
-<!-- <div class="publication media paperhi">
-		<img src="img/DTS-TPT.png" height="100" width="200" class="papericon">
-		<div class="media-body"><b>DTS-TPT: Dual Temporal-Sync Test-time Prompt Tuning for Zero-shot Activity Recognition</b><br>
-			<b>Rui Yan</b>, Hongyu Qu, Xiangbo Shu, Wenbin Li, Jinhui Tang, Tieniu Tan<br>
-			IJCAI, 2024<br>
-			[<a href="https://www.ijcai.org/proceedings/2024/0170.pdf">PDF</a>]
-			<!-- [<a href="https://github.com/ruiyan1995/Interactive_Fusion_for_CAR">Code</a>] -->
-	 	</div>
-	</div> -->
+
+
+	
 <table align="center" border="none">
+	<tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/Te-LoRA.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+       <b>Vision-centric Token Compression in Large Language Model</b><br>
+			Ling Xing, Alex Jinpeng Wang, <b>Rui Yan</b>, Jinhui Tang<br>
+			arxiv, 2025  [<a href="https://arxiv.org/pdf/2502.00791">PDF-link</a>]
+        </p>
+      </td>
+    </tr>
     <tr>
       <td>
         <img align="left" width="330" height="240" src="../images/Te-LoRA.png"/>
       </td>
       <td>
         <p text-align="left">
-        DTS-TPT: Dual Temporal-Sync Test-time Prompt Tuning for Zero-shot Activity Recognition</b><br>
+        <b></b>DTS-TPT: Dual Temporal-Sync Test-time Prompt Tuning for Zero-shot Activity Recognition</b><br>
 			<b>Rui Yan</b>, Hongyu Qu, Xiangbo Shu, Wenbin Li, Jinhui Tang, Tieniu Tan<br>
-	    IJCAI, 2024
+	    IJCAI, 2024  [<a href="https://www.ijcai.org/proceedings/2024/0170.pdf">PDF-link</a>]
         </p>
       </td>
     </tr>
