@@ -258,68 +258,37 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 <span class='anchor' id='ha'></span>
 
 # <font color="#2B6ADD"> Honors and Awards </font>
-- 2022 Distinguished Reviewer of IEEE TMI
-- 2022 Outstanding Reviewer of IEEE TNNLS
-- 2022 National Science Fund for Excellent Young Scholars by NSFC (国家优秀青年基金)
-- 2021 Jiangsu Province Science Fund for Outstanding Young Scholars (江苏省杰出青年科学基金)
-- 2017 CCF-Tencent Open Fund
-- 2017 Excellent Doctoral Dissertation of CAAI (中国人工智能学会优博)
-- 2017 Excellent Doctoral Dissertation of Jiangsu Province, China
-- 2017 Excellent Doctoral Dissertation of Jiangsu Computer Society, China
-- 2017 Excellent Doctoral Dissertation of Nanjing University of Science and Technology, China
-- 2016 Best Student Paper in MMM 2016
-- 2015 Best Paper Runner-up in ACM Multimedia 2015
-- 2015 China National Scholarship
-- 2015 ACM MM 2015 Travel Grant
-
+- 中国图象图形学学会(CSIG)-优秀博士论文 2024
+- 江苏省青年科技人才托举工程 2024
+- 江苏省计算机学会-优秀博士论文 2024
+- 南京理工大学-优秀博士论文 2024
+- 南京大学-毓秀青年学者 2023
+- 国家资助博士后 2023
+- 江苏省卓越博士后 2023
+- The Outstanding PhD of Nanjing University of Science and Technology 2020
+- ACM Multimedia Student Travel Grant 2018
+- The First Prize Scholarship of Nanjing University of Science and Technology 2017, 2018
+- Excellent Undergraduate Thesis of Jiangsu Province 2018
+- Top Ten Outstanding Youth of Nanjing Forestry University 2017
+- The Second prize of National University Students Computer Design Competition 2016
+- The National Encouragement Scholarship 2014, 2015, 2016
+- Merit Student of Nanjing Forestry University 2014, 2015, 2016
 <span class='anchor' id='teach'></span>
 
-# <font color="#2B6ADD"> Teaching </font>
-- 2019-2023, Fundamentals of Multimedia Computing, for Postgraduate.
-- 2016-2023, Technology of Multimedia Computing, for Undergraduate.
-- 2019-now, Introduction to Computers, for Undergraduate.
+# <font color="#2B6ADD"> Grants </font>
+- 国家自然科学基金面上项目, 2025.1-2028.12
+- 国家自然科学基金青年科学基金项目, 2024.1-2024.12
+- 国家资助博士后项目, 2023-2025
+- 中国博士后科学基金第73批面上资助, 2023-2025
+- 中国博士后科学基金特别资助, 2023-2025
+- 江苏省卓越博士后资助, 2023-2025
+- 中央高校基本科研业务费-揭榜挂帅, 2023
+- 中央高校基本科研业务费-揭榜挂帅, 2024
 
 <span class='anchor' id='team'></span>
 
 
-
 # <font color="#2B6ADD"> Academic Service </font>
-+ **Associate Editors:**
-  - IEEE Transactions on Information Forensics and Security (TIFS).
-  - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-  - Pattern Recognition
-  - Information Sciences
-  - Visual Computer
-+ **(Senior) Program Committee Member:**
-  - Computer Vision and Pattern Recognition (CVPR)
-  - International Conference on Computer Vision (ICCV)
-  - ACM International Conference on Multimedia (ACM MM) 
-  - Neural Information Processing Systems (NeurIPS)
-  - AAAI Conference on Artificial Intelligence (AAAI)
-  - International Joint Conference on Artificial Intelligence (IJCAI)
-  - International Conference on Multimedia and Expo (ICME)
-+ **Reviewer for Journals:**
-  - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-  - International Journal of Computer Vision (IJCV)
-  - IEEE Transactions on Image Processing (TIP)
-  - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-  - ACM Transactions on Knowledge Discovery from Data (TKDD)
-  - IEEE Transactions on Knowledge and Data Engineering (TKDE)
-  - IEEE Transactions on Multimedia (TMM)
-  - IEEE Transactions on Medical Imaging (TMI)
-  - IEEE Transactions on Information Forensics and Security (TIFS)
-  - IEEE Transactions on Big Data (TBD)
-  - ACM Transactions on Intelligent Systems and Technology (TIST)
-  - ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
-  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-  - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
-  - IEEE Transactions on Visualization and Computer Graphics (TVCG)
-  - Pattern Recognition
-  - Neural Networks
-  - Information Sciences
-  - Pattern Analysis and Applications
-  - Multimedia Tools and Applications
-  - Pattern Recognition Letters
-  - Multimedia Systems
+- 中国图像图形学会多媒体专业委员会委员
+- Reviewer for CVPR/ICCV/ECCV/NeurIPS/AAAI/IJCAI/MM, TPAMI/TIP/TNNLS/TCSVT/PR/Neurocomputing/Information Sciences.
 
