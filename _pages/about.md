@@ -47,20 +47,6 @@ Human behavior computing, Video understanding, Action analysis, and other relate
 
 <span class='anchor' id='news'></span>
 # <font color="#2B6ADD"> News </font>
-- I have received the Associate Editor (AE) of IEEE Transactions on Information Forensics and Security (TIFS).
-- Three papers have been accepted by NeurIPS 2025.
-- Four papers have been accepted by ICCV 2025.
-- One paper "Reliable and Diverse Hierarchical Adapter for Zero-shot Video Classification" has been accepted by IJCAI 2025.
-I was invited to serve as an Area Chair for ACM MM 2025.
-- Two Papers have been published in TNNLS 2025.
-- One paper "Seeing What Matters: Empowering CLIP with Patch Generation-to-Selection" has been accepted by CVPR 2025.
-- One paper "Surgical video workflow analysis via visual-language learning" has been accepted by npj Health Systems.
-- One paper has been accepted by ICLR 2024.
-- Two papers "3D-aware Select, Expand, and Squeeze Token for Aerial Action Recognition", and "Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection" have been accepted by AAAI 2024.
-- One paper "DoFIT: Domain-aware Federated Instruction Tuning with Alleviated Catastrophic Forgetting" has been accepted by NeurIPS 2024.
-- One paper "DTS-TPT: Dual Temporal-Sync Test-time Prompt Tuning for Zero-shot Activity Recognition" has been accepted by IJCAI 2024.
-- Our work GPT4Ego targeting on Unleashing the Potential of Pre-trained Models for Zero-Shot Egocentric Action Recognition was accepted by TMM.
-- Our work (Semantic-Disentangled Transformer) was accepted by TIP.
 - 2025.7: One paper is accepted by ICCV 2025.
 - 2025.4: Two papers is accepted by IJCAI 2025.
 - 2025.1: One paper is accepted by ICLR 2025.
