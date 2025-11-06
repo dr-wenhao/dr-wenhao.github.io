@@ -96,7 +96,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         <p text-align="left">
         <b>Vision-centric Token Compression in Large Language Model</b><br>
 			Ling Xing, Alex Jinpeng Wang, <b>Rui Yan</b>, Jinhui Tang<br>
-			arxiv, 2025  [<a href="https://arxiv.org/pdf/2502.00791">PDF-link</a>]
+			arxiv, 2025  [<a href="https://arxiv.org/pdf/2502.00791">PDF</a>]
         </p>
       </td>
     </tr>
@@ -108,7 +108,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         <p text-align="left">
        <b>V-MAGE: A Game Evaluation Framework for Assessing Visual-Centric Capabilities in Multimodal Large Language Models</b><br>
 			Xiangxi Zheng, Linjie Li, Zhengyuan Yang, Ping Yu, Alex Jinpeng Wang, <b>Rui Yan</b>, Yuan Yao, Lijuan Wang<br>
-			arxiv, 2025 [<a href="https://arxiv.org/pdf/2504.06148">PDF-link</a>]
+			arxiv, 2025 [<a href="https://arxiv.org/pdf/2504.06148">PDF</a>]
         </p>
       </td>
     </tr>
@@ -120,7 +120,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         <p text-align="left">
        <b> TEST-V: TEst-time Support-set Tuning for Zero-shot Video Classification</b><br>
 			<b>Rui Yan</b>, Jin Wang, Hongyu Qu, Xiaoyu Du, Dong Zhang, Jinhui Tang, Tieniu Tan<br>
-			IJCAI, 2025 [<a href="https://arxiv.org/pdf/2502.00426">PDF-link</a>]
+			IJCAI, 2025 [<a href="https://arxiv.org/pdf/2502.00426">PDF</a>]
         </p>
       </td>
     </tr>
@@ -132,7 +132,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         <p text-align="left">
         <b>DTS-TPT: Dual Temporal-Sync Test-time Prompt Tuning for Zero-shot Activity Recognition</b><br>
 			<b>Rui Yan</b>, Hongyu Qu, Xiangbo Shu, Wenbin Li, Jinhui Tang, Tieniu Tan<br>
-	    IJCAI, 2024  [<a href="https://www.ijcai.org/proceedings/2024/0170.pdf">PDF-link</a>]
+	    IJCAI, 2024  [<a href="https://www.ijcai.org/proceedings/2024/0170.pdf">PDF</a>]
         </p>
       </td>
     </tr>
@@ -144,7 +144,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         <p text-align="left">
         <b>Progressive Instance-aware Feature Learning for Compositional Action Recognition</b><br>
 			<b>Rui Yan</b>, Lingxi Xie, Xiangbo Shu, Liyan Zhang, and Jinhui Tang<br>
-	   TPAMI, 2023 [<a href="https://arxiv.org/pdf/2012.05689">PDF-link</a>][<a href="https://github.com/ruiyan1995/Interactive_Fusion_for_CAR">Code-link</a>]
+	   TPAMI, 2023 [<a href="https://arxiv.org/pdf/2012.05689">PDF</a>][<a href="https://github.com/ruiyan1995/Interactive_Fusion_for_CAR">Code</a>]
         </p>
       </td>
     </tr>
@@ -156,7 +156,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         <p text-align="left">
         <b>All in One: Exploring Unified Video-language Pre-training</b><br>
 			Jinpeng Wang, Yixiao Ge, <b>Rui Yan</b>, Xudong Lin, Guanyu Cai, Jianping Wu, Ying Shan, Xiaohu Qie, Mike Zheng Shou<br>
-	   CVPR 2023 [<a href="https://arxiv.org/abs/2203.07303">PDF-link</a>][<a href="https://github.com/showlab/all-in-one">Code-link</a>]
+	   CVPR 2023 [<a href="https://arxiv.org/abs/2203.07303">PDF</a>][<a href="https://github.com/showlab/all-in-one">Code</a>]
         </p>
       </td>
     </tr>
@@ -180,7 +180,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         <p text-align="left">
         <b>Egocentric Video-Language Pretraining</b><br>
 			Kevin Qinghong Lin, Alex Jinpeng Wang, Mattia Soldan, Michael Wray, <b>Rui Yan</b>, Eric Zhongcong Xu, Difei Gao, Rongcheng Tu, Wenzhe Zhao, Weijie Kong, Chengfei Cai, Hongfa Wang, Dima Damen, Bernard Ghanem, Wei Liu, Mike Zheng Shou<br>
-	NeurIPS 2022 (Spotlight) [<a href="https://arxiv.org/pdf/2206.01670">PDF-link</a>][<a href="https://github.com/showlab/EgoVLP">Code-link</a>]
+	NeurIPS 2022 (Spotlight) [<a href="https://arxiv.org/pdf/2206.01670">PDF</a>][<a href="https://github.com/showlab/EgoVLP">Code</a>]
         </p>
       </td>
     </tr>
@@ -192,7 +192,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         <p text-align="left">
         <b>Look Less Think More: Rethinking Compositional Action Recognition</b><br>
 			<b>Rui Yan</b>, Peng Huang, Xiangbo Shu, Junhao Zhang, Yonghua Pan, Jinhui Tang<br>
-	   ACM MM 2022 [<a href="https://dl.acm.org/doi/abs/10.1145/3503161.3547862">PDF-link</a>][<a href="https://drive.google.com/file/d/1UawPdVymHlfl2C9sAtUWmTri529jM7oV/view?usp=share_link">Split</a>]
+	   ACM MM 2022 [<a href="https://dl.acm.org/doi/abs/10.1145/3503161.3547862">PDF</a>][<a href="https://drive.google.com/file/d/1UawPdVymHlfl2C9sAtUWmTri529jM7oV/view?usp=share_link">Split</a>]
         </p>
       </td>
     </tr>
@@ -204,7 +204,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         <p text-align="left">
         <b>Dual-AI: Dual-path Actor Interaction Learning for Group Activity Recognition</b><br>
 			Mingfei Han, David Junhao Zhang, Yali Wang, <b>Rui Yan</b>, Lina Yao, Xiaojun Chang, and Yu Qiao<br>
-	  CVPR 2022 (Oral) [<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Dual-AI_Dual-Path_Actor_Interaction_Learning_for_Group_Activity_Recognition_CVPR_2022_paper.pdf">PDF-link</a>]
+	  CVPR 2022 (Oral) [<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Dual-AI_Dual-Path_Actor_Interaction_Learning_for_Group_Activity_Recognition_CVPR_2022_paper.pdf">PDF</a>]
         </p>
       </td>
     </tr>
@@ -216,7 +216,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         <p text-align="left">
         <b>HiGCIN: Hierarchical Graph-based Cross Inference Network for Group Activity Recognition</b><br>
 			<b>Rui Yan</b>, Lingxi Xie, Jinhui Tang, Xiangbo Shu, and Qi Tian<br>
-	 TPAMI, 2020 [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9241410">PDF-link</a>][<a href="https://github.com/ruiyan1995/HiGCIN">Code-link</a>]
+	 TPAMI, 2020 [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9241410">PDF</a>][<a href="https://github.com/ruiyan1995/HiGCIN">Code</a>]
         </p>
       </td>
     </tr>
@@ -228,7 +228,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         <p text-align="left">
         <b>Adaptive Module for Weakly-supervised Group Activity Recognition</b><br>
 			<b>Rui Yan</b>, Lingxi Xie, Jinhui Tang, Xiangbo Shu, and Qi Tian<br>
-	  ECCV 2020 [<a href="https://arxiv.org/pdf/2007.09470">PDF-link</a>][<a href="SAM.html">Project</a>][<a href="https://github.com/ruiyan1995/Weakly-supervised-Group-Activiy-Recognition">Code-link</a>]
+	  ECCV 2020 [<a href="https://arxiv.org/pdf/2007.09470">PDF</a>][<a href="SAM.html">Project</a>][<a href="https://github.com/ruiyan1995/Weakly-supervised-Group-Activiy-Recognition">Code</a>]
         </p>
       </td>
     </tr>
@@ -253,7 +253,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         <b>Participation-Contributed Temporal Dynamic Model for Group Activity Recognition</b><br>
 			<b>Rui Yan</b>, Jinhui Tang, Xiangbo Shu, Zechao Li and Qi Tian<br>
 	 ACM MM 2018 (Oral) ~8.5% (Journal version is accepted by TNNLS)<br> 
-			[<a href="https://www.researchgate.net/profile/Rui_Yan31/publication/328372578_Participation-Contributed_Temporal_Dynamic_Model_for_Group_Activity_Recognition/links/5bed27684585150b2bb79e69/Participation-Contributed-Temporal-Dynamic-Model-for-Group-Activity-Recognition.pdf">PDF-link</a>][<a href="https://github.com/ruiyan1995/Group-Activity-Recognition">Code-link</a>][<a href="https://github.com/ruiyan1995/ruiyan1995.github.io/raw/master/mm2018_korea.pptx">Slides</a>]
+			[<a href="https://www.researchgate.net/profile/Rui_Yan31/publication/328372578_Participation-Contributed_Temporal_Dynamic_Model_for_Group_Activity_Recognition/links/5bed27684585150b2bb79e69/Participation-Contributed-Temporal-Dynamic-Model-for-Group-Activity-Recognition.pdf">PDF</a>][<a href="https://github.com/ruiyan1995/Group-Activity-Recognition">Code</a>][<a href="https://github.com/ruiyan1995/ruiyan1995.github.io/raw/master/mm2018_korea.pptx">Slides</a>]
         </p>
       </td>
     </tr>
