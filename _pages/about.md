@@ -111,8 +111,6 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         </p>
       </td>
     </tr>
-
-
 <table align="center" border="none">
 	<tr>
       <td>
