@@ -258,7 +258,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
       </td>
     </tr>
 </table>
-For more papers, please kindly refer to <a href="[https://github.com/ruiyan1995/Group-Activity-Recognition](https://scholar.google.com.hk/citations?user=PWy5LfMAAAAJ&hl=zh-CN&oi=ao)">my Google Scholar page</a>
+For more papers, please kindly refer to <a href="https://scholar.google.com.hk/citations?user=PWy5LfMAAAAJ&hl=zh-CN&oi=ao">my Google Scholar page</a>
 <span class='anchor' id='ha'></span>
 
 # <font color="#2B6ADD"> Honors and Awards </font>
