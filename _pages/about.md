@@ -261,7 +261,6 @@ Human behavior computing, Video understanding, Action analysis, and other relate
 For more papers, please kindly refer to [my Google Scholar page][https://scholar.google.com.hk/citations?user=PWy5LfMAAAAJ&hl=zh-CN&oi=ao]).
 
 
-
 <span class='anchor' id='ha'></span>
 
 # <font color="#2B6ADD"> Honors and Awards </font>
