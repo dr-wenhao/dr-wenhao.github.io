@@ -284,10 +284,9 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 - 江苏省卓越博士后资助, 2023-2025
 - 中央高校基本科研业务费-揭榜挂帅, 2023
 - 中央高校基本科研业务费-揭榜挂帅, 2024
-
 <span class='anchor' id='team'></span>
 
-
+<span class='anchor' id='Service'></span>
 # <font color="#2B6ADD"> Academic Service </font>
 - 中国图像图形学会多媒体专业委员会委员
 - Reviewer for CVPR/ICCV/ECCV/NeurIPS/AAAI/IJCAI/MM, TPAMI/TIP/TNNLS/TCSVT/PR/Neurocomputing/Information Sciences.
