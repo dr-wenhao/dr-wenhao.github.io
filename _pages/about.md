@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font color="#2B6ADD" > Intro </font>
+# <font color="#2B6ADD" > Intro </font>
 <p style="text-align: justify;font-family: Roboto;">
 I am currently a Professor in Intelligent Media Analysis Group (<a href="https://imag-njust.net">IMAG</a>), 
 		at School of Computer Science and Engineering, Nanjing University of Science and Technology, China. 
@@ -61,9 +61,36 @@ I was invited to serve as an Area Chair for ACM MM 2025.
 - One paper "DTS-TPT: Dual Temporal-Sync Test-time Prompt Tuning for Zero-shot Activity Recognition" has been accepted by IJCAI 2024.
 - Our work GPT4Ego targeting on Unleashing the Potential of Pre-trained Models for Zero-Shot Egocentric Action Recognition was accepted by TMM.
 - Our work (Semantic-Disentangled Transformer) was accepted by TIP.
-
-
+- 2025.7: One paper is accepted by ICCV 2025.
+- 2025.4: Two papers is accepted by IJCAI 2025.
+- 2025.1: One paper is accepted by ICLR 2025.
+- 2024.7: Two papers is accepted by ACM MM 2024.
+- 2024.7: One paper is accepted by IEEE TMM.
+- 2024.4: One paper is accepted by IEEE TCSVT.
+- 2024.2: One paper is accepted by IJCAI 2024.
+- 2023.12: One paper is accepted by IEEE TIP.
+- 2023.6: Four paper is accepted by ACM MM 2023.
+- 2023.6: One paper is accepted by ICCV 2023.
+- 2023.5: One paper is accepted by IEEE TCSVT.
+- 2023.3: One paper is accepted by IEEE TPAMI.
+- 2023.2: One paper is accepted by CVPR 2023.
+- 2022.11: One paper is accepted by AAAI 2023.
+- 2022.09: One paper is accepted by NeurIPS 2022.
+- 2022.07: One paper is accepted by ACM MM 2022.
+- 2022.06: Our team achieves the First Place Award in Object State Change Classification Track, the Second Place Award in Natural Language Queries for Episodic Memory Track, and the Third Place Award in PNR Temporal Localization Track of EGO4D Challenge (CVPR 2022).
+- 2022.06: Our team achieves the First Place Award in Multi-Instance Action Retrieval Track of EPIC-Kitchens Dataset Challenges (CVPR 2022).
+- 2022.03: Two papers are accepted by CVPR 2022.
+- 2022.01: One paper is accepted by IEEE TCSVT.
+- 2021.12: I give a talk about Video-Language Pre-training at PCG, Tencent.
+- 2021.08: I will work with Prof. Mike Shou at Show Lab, National University of Singapore.
+- 2020.05.19: One paper is accepted by IEEE TNNLS.
+- 2020.12.08: One paper is accepted by ACM MM Asia 2020.
+- 2020.10.20: One paper is accepted by IEEE TPAMI.
+- 2020.07.03: One paper is accepted by ECCV 2020.
+- 2020.05: Selected as the Outstanding PhD of NJUST.
+- 2019.05: I give a talk about GAR at the Noah's Ark Lab, Huawei Inc.
 <span class='anchor' id='pub'></span>
+
 # <font color="#2B6ADD"> Selected Publications </font>
 
 <style>
