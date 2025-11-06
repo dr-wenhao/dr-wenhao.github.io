@@ -100,28 +100,6 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         </p>
       </td>
     </tr>
-    <tr>
-      <td>
-        <img align="left" width="330" height="240" src="../images/Te-LoRA.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        Zhixuan Li, Binqian Xu, <b>Xiangbo Shu*</b>, Jiachao Zhang, Yazhou Yao, Guosen Xie, Jinhui Tang. Tensor-aggregated LoRA in Federated Fine-tuning. IEEE International Conference on Computer Vision (ICCV), 2025.
-        </p>
-      </td>
-    </tr>
-	<tr>
-      <td>
-        <img align="left" width="330" height="240" src="../images/VTC.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        <b>Vision-centric Token Compression in Large Language Model</b><br>
-			Ling Xing, Alex Jinpeng Wang, <b>Rui Yan</b>, Jinhui Tang<br>
-			arxiv, 2025  [<a href="https://arxiv.org/pdf/2502.00791">PDF-link</a>]
-        </p>
-      </td>
-    </tr>
 	<tr>
       <td>
         <img align="left" width="330" height="240" src="../images/V-GAME.png"/>
@@ -164,7 +142,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
       </td>
       <td>
         <p text-align="left">
-        <b></b>Progressive Instance-aware Feature Learning for Compositional Action Recognition</b><br>
+        <b>Progressive Instance-aware Feature Learning for Compositional Action Recognition</b><br>
 			<b>Rui Yan</b>, Lingxi Xie, Xiangbo Shu, Liyan Zhang, and Jinhui Tang<br>
 	   TPAMI, 2023 [<a href="https://arxiv.org/pdf/2012.05689">PDF-link</a>][<a href="https://github.com/ruiyan1995/Interactive_Fusion_for_CAR">Code-link</a>]
         </p>
@@ -176,7 +154,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
       </td>
       <td>
         <p text-align="left">
-        <b></b>All in One: Exploring Unified Video-language Pre-training</b><br>
+        <b>All in One: Exploring Unified Video-language Pre-training</b><br>
 			Jinpeng Wang, Yixiao Ge, <b>Rui Yan</b>, Xudong Lin, Guanyu Cai, Jianping Wu, Ying Shan, Xiaohu Qie, Mike Zheng Shou<br>
 	   CVPR 2023 [<a href="https://arxiv.org/abs/2203.07303">PDF-link</a>][<a href="https://github.com/showlab/all-in-one">Code-link</a>]
         </p>
@@ -280,7 +258,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
       </td>
     </tr>
 </table>
-For more papers, please kindly refer to [my Google Scholar page][https://scholar.google.com.hk/citations?user=PWy5LfMAAAAJ&hl=zh-CN&oi=ao]).
+For more papers, please kindly refer to <a href="[https://github.com/ruiyan1995/Group-Activity-Recognition](https://scholar.google.com.hk/citations?user=PWy5LfMAAAAJ&hl=zh-CN&oi=ao)">my Google Scholar page</a>
 <span class='anchor' id='ha'></span>
 
 # <font color="#2B6ADD"> Honors and Awards </font>
