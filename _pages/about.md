@@ -89,18 +89,6 @@ Human behavior computing, Video understanding, Action analysis, and other relate
 </style>
 <table align="center" border="none">
  <tr>
-  <td>
-    <img align="left" width="330" height="240" src="../images/DoFIT.png"/>
-  </td>
-  <td>
-    <p text-align="left">
-    Binqian Xu, <b>Xiangbo Shu*</b>, Haiyang Mei, Zechen Bai, Basura Fernando, Mike Zheng Shou, Jinhui Tang. DoFIT: Domain-aware Federated Instruction Tuning with Alleviated Catastrophic Forgetting. The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
-    <a href="https://openreview.net/pdf?id=FDfrPugkGU">[PDF-Link]</a>
-    <a href="https://github.com/1xbq1/DoFIT">[Code-Link]</a>
-    </p>
-  </td>
- </tr>
-	<tr>
       <td>
         <img align="left" width="330" height="240" src="../images/VTC.png"/>
       </td>
@@ -112,7 +100,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         </p>
       </td>
     </tr>
-	<tr>
+ <tr>
       <td>
         <img align="left" width="330px" height="240px" src="../images/V-GAME.png"/>
       </td>
