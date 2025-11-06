@@ -248,8 +248,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
     </tr>
 </table>
 
-For more papers, please kindly refer to [my Google Scholar page](https://scholar.google.com.hk/citations?user=FQfcm5oAAAAJ&hl=zh-CN&oi=ao).
-
+For more papers, please kindly refer to [my Google Scholar page][https://scholar.google.com.hk/citations?user=PWy5LfMAAAAJ&hl=zh-CN&oi=ao]).
 
 
 
