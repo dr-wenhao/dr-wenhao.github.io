@@ -42,7 +42,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
 <font color=Brown>
 <i style="font-family: Roboto;">*Positions for Interns/Master/PhD's Programme*</i>
 <br>
- <i style="font-family: Roboto;">We are looking for students, who are self-motivated and have a solid foundation in mathematics and programming. Please feel free to drop me an email (shuxb@njust.edu.cn) if you are interested.</i>
+ <i style="font-family: Roboto;">We are looking for students, who are self-motivated and have a solid foundation in mathematics and programming. If you are interested, please feel free to contact us!.</i>
 </font>
 
 <span class='anchor' id='news'></span>
