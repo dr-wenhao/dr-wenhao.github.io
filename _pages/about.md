@@ -87,7 +87,15 @@ Human behavior computing, Video understanding, Action analysis, and other relate
     border-color: transparent;
   }
 </style>
-
+<!-- <div class="publication media paperhi">
+		<img src="img/DTS-TPT.png" height="100" width="200" class="papericon">
+		<div class="media-body"><b>DTS-TPT: Dual Temporal-Sync Test-time Prompt Tuning for Zero-shot Activity Recognition</b><br>
+			<b>Rui Yan</b>, Hongyu Qu, Xiangbo Shu, Wenbin Li, Jinhui Tang, Tieniu Tan<br>
+			IJCAI, 2024<br>
+			[<a href="https://www.ijcai.org/proceedings/2024/0170.pdf">PDF</a>]
+			<!-- [<a href="https://github.com/ruiyan1995/Interactive_Fusion_for_CAR">Code</a>] -->
+	 	</div>
+	</div> -->
 <table align="center" border="none">
     <tr>
       <td>
@@ -95,7 +103,9 @@ Human behavior computing, Video understanding, Action analysis, and other relate
       </td>
       <td>
         <p text-align="left">
-        Zhixuan Li, Binqian Xu, <b>Xiangbo Shu*</b>, Jiachao Zhang, Yazhou Yao, Guosen Xie, Jinhui Tang. Tensor-aggregated LoRA in Federated Fine-tuning. IEEE International Conference on Computer Vision (ICCV), 2025.
+        DTS-TPT: Dual Temporal-Sync Test-time Prompt Tuning for Zero-shot Activity Recognition</b><br>
+			<b>Rui Yan</b>, Hongyu Qu, Xiangbo Shu, Wenbin Li, Jinhui Tang, Tieniu Tan<br>
+	    IJCAI, 2024
         </p>
       </td>
     </tr>
