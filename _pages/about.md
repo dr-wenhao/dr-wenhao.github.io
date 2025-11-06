@@ -102,7 +102,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
     </tr>
 	<tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/V-GAME.png"/>
+        <img align="left" width="330" height="120" src="../images/V-GAME.png"/>
       </td>
       <td>
         <p text-align="left">
