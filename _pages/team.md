@@ -19,11 +19,10 @@ redirect_from:
 
 <img src="{{ '/images/logo.svg' | relative_url }}" alt="">
 
-# <font color="#2B6ADD"> Welcome to Visual Intelligence and Multimedia (VIM) Group !</font>
+
 
 <p style="text-align: justify;font-family: Roboto;">
 
-VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href="https://imag-njust.net/">Intelligent Media Analysis Group (IMAG)</a> built by the chief leader of Prof. <a href="https://v2.imag-njust.net/people/user/tangjinhui/">Jinhui Tang</a>. The leader of VIM@IMAG is <a href="https://shuxb104.github.io/">Xiangbo Shu</a>, a Professor at the School of Computer Science and Engineering, Nanjing University of Science and Technology, China. Based on IMAG, the primary goal of VIM@IMAG is to break through bottlenecks and to make hardcore innovations in human-centric vision problems, including Visual Perception, Visual Understanding, Model Deployment. 
 
 </p>
 
