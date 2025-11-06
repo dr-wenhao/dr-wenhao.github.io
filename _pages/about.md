@@ -176,7 +176,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
     </tr>
    <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/RegionLearner.jpg"/>
+        <img align="left" width="330" height="240" src="../images/EGO_VLP.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -188,25 +188,74 @@ Human behavior computing, Video understanding, Action analysis, and other relate
     </tr>
 	<tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/RegionLearner.jpg"/>
+        <img align="left" width="330" height="240" src="../images/LLTM.png"/>
       </td>
       <td>
         <p text-align="left">
-        <b>Video-Text Pre-training with Learned Regions for Retrieval</b><br>
-			<b>Rui Yan</b>, Mike Zheng Shou, Yixiao Ge, Alex Jinpeng Wang, Xudong Lin, Guanyu Cai, and Jinhui Tang<br>
-	   AAAI 2023 [<a href="https://arxiv.org/pdf/2112.01194">PDF</a>][<a href="https://github.com/ruiyan1995/Region_Learner">Code</a>]
+        <b>Look Less Think More: Rethinking Compositional Action Recognition</b><br>
+			<b>Rui Yan</b>, Peng Huang, Xiangbo Shu, Junhao Zhang, Yonghua Pan, Jinhui Tang<br>
+	   ACM MM 2022 [<a href="https://dl.acm.org/doi/abs/10.1145/3503161.3547862">PDF-link</a>][<a href="https://drive.google.com/file/d/1UawPdVymHlfl2C9sAtUWmTri529jM7oV/view?usp=share_link">Split</a>]
         </p>
       </td>
     </tr>
 	<tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/RegionLearner.jpg"/>
+        <img align="left" width="330" height="240" src="../images/Dual-AI.png"/>
       </td>
       <td>
         <p text-align="left">
-        <b>Video-Text Pre-training with Learned Regions for Retrieval</b><br>
-			<b>Rui Yan</b>, Mike Zheng Shou, Yixiao Ge, Alex Jinpeng Wang, Xudong Lin, Guanyu Cai, and Jinhui Tang<br>
-	   AAAI 2023 [<a href="https://arxiv.org/pdf/2112.01194">PDF</a>][<a href="https://github.com/ruiyan1995/Region_Learner">Code</a>]
+        <b>Dual-AI: Dual-path Actor Interaction Learning for Group Activity Recognition</b><br>
+			Mingfei Han, David Junhao Zhang, Yali Wang, <b>Rui Yan</b>, Lina Yao, Xiaojun Chang, and Yu Qiao<br>
+	  CVPR 2022 (Oral) [<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Dual-AI_Dual-Path_Actor_Interaction_Learning_for_Group_Activity_Recognition_CVPR_2022_paper.pdf">PDF-link</a>]
+        </p>
+      </td>
+    </tr>
+		<tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/HiGCIN.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>HiGCIN: Hierarchical Graph-based Cross Inference Network for Group Activity Recognition</b><br>
+			<b>Rui Yan</b>, Lingxi Xie, Jinhui Tang, Xiangbo Shu, and Qi Tian<br>
+	 TPAMI, 2020 [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9241410">PDF-link</a>][<a href="https://github.com/ruiyan1995/HiGCIN">Code-link</a>]
+        </p>
+      </td>
+    </tr>
+		<tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/SAM.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Adaptive Module for Weakly-supervised Group Activity Recognition</b><br>
+			<b>Rui Yan</b>, Lingxi Xie, Jinhui Tang, Xiangbo Shu, and Qi Tian<br>
+	  ECCV 2020 [<a href="https://arxiv.org/pdf/2007.09470">PDF-link</a>][<a href="SAM.html">Project</a>][<a href="https://github.com/ruiyan1995/Weakly-supervised-Group-Activiy-Recognition">Code-link</a>]
+        </p>
+      </td>
+    </tr>
+		<tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/CCGL.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Coherence Constrained Graph LSTM for Group Activity Recognition</b><br>
+			Jinhui Tang, Xiangbo Shu, <b>Rui Yan</b>, and Liyan Zhang<br>
+	  TPAMI, 2019
+        </p>
+      </td>
+    </tr>
+		<tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/PC-TDM.jpg"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Participation-Contributed Temporal Dynamic Model for Group Activity Recognition</b><br>
+			<b>Rui Yan</b>, Jinhui Tang, Xiangbo Shu, Zechao Li and Qi Tian<br>
+	 ACM MM 2018 (Oral) ~8.5% (Journal version is accepted by TNNLS)<br> 
+			[<a href="https://www.researchgate.net/profile/Rui_Yan31/publication/328372578_Participation-Contributed_Temporal_Dynamic_Model_for_Group_Activity_Recognition/links/5bed27684585150b2bb79e69/Participation-Contributed-Temporal-Dynamic-Model-for-Group-Activity-Recognition.pdf">PDF-link</a>][<a href="https://github.com/ruiyan1995/Group-Activity-Recognition">Code-link</a>][<a href="https://github.com/ruiyan1995/ruiyan1995.github.io/raw/master/mm2018_korea.pptx">Slides</a>]
         </p>
       </td>
     </tr>
