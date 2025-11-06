@@ -120,7 +120,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
       </td>
       <td>
         <p text-align="left">
-       <b>V-MAGE: TEST-V: TEst-time Support-set Tuning for Zero-shot Video Classification</b><br>
+       <b> TEST-V: TEst-time Support-set Tuning for Zero-shot Video Classification</b><br>
 			<b>Rui Yan</b>, Jin Wang, Hongyu Qu, Xiaoyu Du, Dong Zhang, Jinhui Tang, Tieniu Tan<br>
 			IJCAI, 2025 [<a href="https://arxiv.org/pdf/2502.00426">PDF-link</a>]
         </p>
@@ -132,7 +132,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
       </td>
       <td>
         <p text-align="left">
-        <b></b>DTS-TPT: Dual Temporal-Sync Test-time Prompt Tuning for Zero-shot Activity Recognition</b><br>
+        <b>DTS-TPT: Dual Temporal-Sync Test-time Prompt Tuning for Zero-shot Activity Recognition</b><br>
 			<b>Rui Yan</b>, Hongyu Qu, Xiangbo Shu, Wenbin Li, Jinhui Tang, Tieniu Tan<br>
 	    IJCAI, 2024  [<a href="https://www.ijcai.org/proceedings/2024/0170.pdf">PDF-link</a>]
         </p>
@@ -162,154 +162,54 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         </p>
       </td>
     </tr>
-    <tr>
+	<tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/EMP.png"/>
+        <img align="left" width="330" height="240" src="../images/RegionLearner.jpg"/>
       </td>
       <td>
         <p text-align="left">
-        Meiqi Cao, <b>Xiangbo Shu*</b>, Xin jiang, Rui Yan, Yazhou Yao, Jinhui Tang. Exploiting Frequency Dynamics for Enhanced Multimodal Event-based Action Recognition. IEEE International Conference on Computer Vision (ICCV), 2025.
+        <b>Video-Text Pre-training with Learned Regions for Retrieval</b><br>
+			<b>Rui Yan</b>, Mike Zheng Shou, Yixiao Ge, Alex Jinpeng Wang, Xudong Lin, Guanyu Cai, and Jinhui Tang<br>
+	   AAAI 2023 [<a href="https://arxiv.org/pdf/2112.01194">PDF</a>][<a href="https://github.com/ruiyan1995/Region_Learner">Code</a>]
         </p>
       </td>
     </tr>
-    <tr>
+   <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/cluspro.png"/>
+        <img align="left" width="330" height="240" src="../images/RegionLearner.jpg"/>
       </td>
       <td>
         <p text-align="left">
-        Hongyu Qu, Jianan Wei, <b>Xiangbo Shu*</b>, Wenguan Wang. Learning Clustering-based Prototypes for Compositional Zero-shot Learning. The Thirteenth International Conference on Learning Representations (ICLR), 2025.
-        <a href="https://arxiv.org/pdf/2502.06501">[PDF-Link]</a>
-        <a href="https://github.com/quhongyu/ClusPro">[Code-Link]</a>
+        <b>Egocentric Video-Language Pretraining</b><br>
+			Kevin Qinghong Lin, Alex Jinpeng Wang, Mattia Soldan, Michael Wray, <b>Rui Yan</b>, Eric Zhongcong Xu, Difei Gao, Rongcheng Tu, Wenzhe Zhao, Weijie Kong, Chengfei Cai, Hongfa Wang, Dima Damen, Bernard Ghanem, Wei Liu, Mike Zheng Shou<br>
+	NeurIPS 2022 (Spotlight) [<a href="https://arxiv.org/pdf/2206.01670">PDF-link</a>][<a href="https://github.com/showlab/EgoVLP">Code-link</a>]
         </p>
       </td>
     </tr>
-
-    <tr>
+	<tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/DoFIT.png"/>
+        <img align="left" width="330" height="240" src="../images/RegionLearner.jpg"/>
       </td>
       <td>
         <p text-align="left">
-        Binqian Xu, <b>Xiangbo Shu*</b>, Haiyang Mei, Zechen Bai, Basura Fernando, Mike Zheng Shou, Jinhui Tang. DoFIT: Domain-aware Federated Instruction Tuning with Alleviated Catastrophic Forgetting. The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
-        <a href="https://openreview.net/pdf?id=FDfrPugkGU">[PDF-Link]</a>
-        <a href="https://github.com/1xbq1/DoFIT">[Code-Link]</a>
+        <b>Video-Text Pre-training with Learned Regions for Retrieval</b><br>
+			<b>Rui Yan</b>, Mike Zheng Shou, Yixiao Ge, Alex Jinpeng Wang, Xudong Lin, Guanyu Cai, and Jinhui Tang<br>
+	   AAAI 2023 [<a href="https://arxiv.org/pdf/2112.01194">PDF</a>][<a href="https://github.com/ruiyan1995/Region_Learner">Code</a>]
         </p>
       </td>
     </tr>
-    <tr>
+	<tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/MAGC.png"/>
+        <img align="left" width="330" height="240" src="../images/RegionLearner.jpg"/>
       </td>
       <td>
         <p text-align="left">
-        <b>Xiangbo Shu</b>, Binqian Xu, Liyan Zhang, Jinhui Tang. Multi-Granularity Anchor-Contrastive Representation Learning for Semi-supervised Skeleton-based Action Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023.
-        <b>(ESI Highly Cited Paper)</b>
-        <a href="https://github.com/shuxb1s04/shuxb104.github.io/blob/main/paper/MGAC.pdf">[PDF-Link]</a>
-        <a href="https://github.com/1xbq1/MAC-Learning">[Code-Link]</a>
+        <b>Video-Text Pre-training with Learned Regions for Retrieval</b><br>
+			<b>Rui Yan</b>, Mike Zheng Shou, Yixiao Ge, Alex Jinpeng Wang, Xudong Lin, Guanyu Cai, and Jinhui Tang<br>
+	   AAAI 2023 [<a href="https://arxiv.org/pdf/2112.01194">PDF</a>][<a href="https://github.com/ruiyan1995/Region_Learner">Code</a>]
         </p>
       </td>
     </tr>
-    <tr>
-      <td>
-        <img align="left" width="330" height="240" src="../images/CCGL.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        Jinhui Tang, <b>Xiangbo Shu*</b>, Rui Yan, and Liyan Zhang. Coherence Constrained Graph LSTM for Group Activity Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022. <b>(ESI Highly Cited Paper)</b>, <b>(ESI Hot Paper)</b> 
-        <a href="https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/CCGL.pdf">[PDF-Link]</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="left" width="330" height="240" src="../images/SCRN.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        <b>Xiangbo Shu</b>, Liyan Zhang*, Guo-Jun Qi, Wei Liu, and Jinhui Tang. Spatiotemporal co-attention recurrent neural networks for human-skeleton motion prediction. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021. <b>(ESI Highly Cited Paper)</b>
-        <a href="https://arxiv.org/pdf/1909.13245.pdf">[PDF-Link]</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="left" width="330" height="240" src="../images/GLIL.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        <b>Xiangbo Shu</b>, Liyan Zhang, Yunlian Sun, and Jinhui Tang. Host-Parasite: Graph LSTM-In-LSTM for Group Activity Recognition. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021. <b>(ESI Highly Cited Paper)</b>
-        <a href="https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/HPGL.pdf">[PDF-Link]</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="left" width="330" height="240" src="../images/H-LSCTM.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        <b>Xiangbo Shu</b>, Jinhui Tang, Guo-Jun Qi, Wei Liu, and Jian Yang. Hierarchical Long Short-Term Concurrent Memory for Human Interaction Recognition. IEEE Transacti on Pattern Analysis and Machine Intelligence (TPAMI), 2021. <b>(ESI Highly Cited Paper)</b>, <b>(ESI Hot Paper)</b>
-        <a href="https://arxiv.org/pdf/1811.00270.pdf">[PDF-Link]</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="left" width="330" height="240" src="../images/SUGAR.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        Jinhui Tang, <b>Xiangbo Shu</b>, Zechao Li, Yu-Gang Jiang, Qi Tian. Social Anchor-Unit Graph Regularized Tensor Completion for Large-Scale Image Retagging. IEEE Transactions on Pattern Analysis and Machine Intelligenc (TPAMI), 2019.
-        <a href="https://arxiv.org/pdf/1804.04397.pdf">[PDF-Link]</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="left" width="330" height="240" src="../images/PAP.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        <b>Xiangbo Shu</b>, Jinhui Tang, Zechao Li, Hanjiang Lai, Liyan Zhang, and Shuicheng Yan. Personalized Age Progression with Bi-level Aging Dictionary Learning. IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI), 2018.
-        <a href="https://arxiv.org/pdf/1706.01039.pdf">[PDF-Link]</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="left" width="330" height="240" src="../images/CFR.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        <b>Xiangbo Shu</b>, Liyan Zhang, Jinhui Tang, Guo-Sen Xie, Shuicheng Yan. Computational Face Reader. MultiMedia Modeling (MMM), 2016. <b>(Best Student Paper)</b>
-        <a href="https://link.springer.com/chapter/10.1007/978-3-319-27671-7_10">[PDF-Link]</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="left" width="330" height="240" src="../images/DTNs.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        <b>Xiangbo Shu</b>, Guo-Jun Qi, Jinhui Tang, Jingdong Wang. Weekly-Shared Deep Transfer Networks for Heterogeneous-Domain Knowledge Propagation. ACM Multimedia (MM), 2015. <b>(Best Paper Candidate)</b>        
-        <a href="https://shuxb104.github.io/paper/WSDT.pdf">[PDF-Link]</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="left" width="330" height="240" src="../images/PAPD.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        <b>Xiangbo Shu</b>, Jinhui Tang, Hanjiang Lai, Luoqi Liu, Shuicheng Yan. Personalized Age Progression with Aging Dictionary. IEEE International Conference on Computer Vision (ICCV), 2015.
-        <a href="https://openaccess.thecvf.com/content_iccv_2015/papers/Shu_Personalized_Age_Progression_ICCV_2015_paper.pdf">[PDF-Link]</a>
-        </p>
-      </td>
-    </tr>
-</table>
 
 For more papers, please kindly refer to [my Google Scholar page][https://scholar.google.com.hk/citations?user=PWy5LfMAAAAJ&hl=zh-CN&oi=ao]).
 
