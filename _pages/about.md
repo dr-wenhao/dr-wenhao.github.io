@@ -78,6 +78,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
 <span class='anchor' id='pub'></span>
 
 # <font color="#2B6ADD"> Selected Publications </font>
+
 <style>
   table {
     border-collapse: collapse;
@@ -86,6 +87,31 @@ Human behavior computing, Video understanding, Action analysis, and other relate
     border-color: transparent;
   }
 </style>
+<table align="center" border="none">
+	<tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/VTC.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Vision-centric Token Compression in Large Language Model</b><br>
+			Ling Xing, Alex Jinpeng Wang, <b>Rui Yan</b>, Jinhui Tang<br>
+			arxiv, 2025  [<a href="https://arxiv.org/pdf/2502.00791">PDF-link</a>]
+        </p>
+      </td>
+    </tr>
+<table align="center" border="none">
+    <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/Te-LoRA.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        Zhixuan Li, Binqian Xu, <b>Xiangbo Shu*</b>, Jiachao Zhang, Yazhou Yao, Guosen Xie, Jinhui Tang. Tensor-aggregated LoRA in Federated Fine-tuning. IEEE International Conference on Computer Vision (ICCV), 2025.
+        </p>
+      </td>
+    </tr>
+
 
 <table align="center" border="none">
 	<tr>
@@ -94,7 +120,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
       </td>
       <td>
         <p text-align="left">
-       <b>Vision-centric Token Compression in Large Language Model</b><br>
+        <b>Vision-centric Token Compression in Large Language Model</b><br>
 			Ling Xing, Alex Jinpeng Wang, <b>Rui Yan</b>, Jinhui Tang<br>
 			arxiv, 2025  [<a href="https://arxiv.org/pdf/2502.00791">PDF-link</a>]
         </p>
