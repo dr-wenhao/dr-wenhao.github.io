@@ -100,7 +100,6 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         </p>
       </td>
     </tr>
-<table align="center" border="none">
     <tr>
       <td>
         <img align="left" width="330" height="240" src="../images/Te-LoRA.png"/>
@@ -111,7 +110,6 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         </p>
       </td>
     </tr>
-<table align="center" border="none">
 	<tr>
       <td>
         <img align="left" width="330" height="240" src="../images/VTC.png"/>
@@ -281,7 +279,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         </p>
       </td>
     </tr>
-
+</table>
 For more papers, please kindly refer to [my Google Scholar page][https://scholar.google.com.hk/citations?user=PWy5LfMAAAAJ&hl=zh-CN&oi=ao]).
 <span class='anchor' id='ha'></span>
 
