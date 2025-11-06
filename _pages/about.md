@@ -78,7 +78,6 @@ Human behavior computing, Video understanding, Action analysis, and other relate
 <span class='anchor' id='pub'></span>
 
 # <font color="#2B6ADD"> Selected Publications </font>
-
 <style>
   table {
     border-collapse: collapse;
@@ -88,11 +87,10 @@ Human behavior computing, Video understanding, Action analysis, and other relate
   }
 </style>
 
-
 <table align="center" border="none">
 	<tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/Te-LoRA.png"/>
+        <img align="left" width="330" height="240" src="../images/VTC.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -104,7 +102,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
     </tr>
 	<tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/Te-LoRA.png"/>
+        <img align="left" width="330" height="240" src="../images/V-GAME.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -116,7 +114,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
     </tr>
 <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/Te-LoRA.png"/>
+        <img align="left" width="330" height="240" src="../images/TEST-V.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -128,7 +126,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/Te-LoRA.png"/>
+        <img align="left" width="330" height="240" src="../images/DTS-TPT.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -140,7 +138,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
     </tr>
 	<tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/Te-LoRA.png"/>
+        <img align="left" width="330" height="240" src="../images/Interactive_Fusion.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -261,8 +259,6 @@ Human behavior computing, Video understanding, Action analysis, and other relate
     </tr>
 
 For more papers, please kindly refer to [my Google Scholar page][https://scholar.google.com.hk/citations?user=PWy5LfMAAAAJ&hl=zh-CN&oi=ao]).
-
-
 
 
 
